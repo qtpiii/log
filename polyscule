@@ -47,7 +47,7 @@
         <mxCell id="YawHtOCam4Y2LVF4TnOF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-1" target="YawHtOCam4Y2LVF4TnOF-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xpKsFXBeHTWYYk1OyyKB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-1" target="YawHtOCam4Y2LVF4TnOF-10">
+        <mxCell id="xpKsFXBeHTWYYk1OyyKB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-1" target="YawHtOCam4Y2LVF4TnOF-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="555" />
@@ -70,7 +70,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-3" target="YawHtOCam4Y2LVF4TnOF-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="350" />
+              <mxPoint x="220" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-3" value="&lt;div&gt;kali&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
@@ -89,8 +94,25 @@
         <mxCell id="YawHtOCam4Y2LVF4TnOF-6" value="&lt;div&gt;wispy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-8" target="BnkiQCS6gzXOavuw1dR2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="253" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="260" />
+              <mxPoint x="740" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-8" target="YawHtOCam4Y2LVF4TnOF-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="360" />
+              <mxPoint x="250" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-8" value="&lt;div&gt;bailey&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ddR5uN7rt8JGsBOF_Ijd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-10" target="YawHtOCam4Y2LVF4TnOF-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,6 +142,26 @@
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-22" value="i think hootis has at least 1 maybe 2 other partners but idk their name(s)" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BnkiQCS6gzXOavuw1dR2-0" target="YawHtOCam4Y2LVF4TnOF-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="410" />
+              <mxPoint x="680" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-0" value="hugo? i dont know its cofusing and i am too gay to undertand it and im lost and confused and i want to eat rocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-4" value="lobo (her mom thinks shes gay for me)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BnkiQCS6gzXOavuw1dR2-5" target="YawHtOCam4Y2LVF4TnOF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BnkiQCS6gzXOavuw1dR2-5" value="Miracle?! i dont know that one either i feel responsible for turning her trans and also i carpool with her (thats not really related but its cool i guess) also she is one of my two friends at tech and i really need her as a buffer between me and the homophobic straight gay man who likes me" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
