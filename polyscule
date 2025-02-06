@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YawHtOCam4Y2LVF4TnOF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-0" target="YawHtOCam4Y2LVF4TnOF-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -34,7 +27,7 @@
             <mxPoint x="270" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="460" />
-              <mxPoint x="271" y="460" />
+              <mxPoint x="240" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,6 +104,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cB9Z8X_XpZgkxfI_g1ba-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-8" target="YawHtOCam4Y2LVF4TnOF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-8" value="&lt;div&gt;bailey&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -140,7 +140,7 @@
         <mxCell id="YawHtOCam4Y2LVF4TnOF-21" value="&lt;div&gt;shay&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YawHtOCam4Y2LVF4TnOF-22" value="i think hootis has at least 1 maybe 2 other partners but idk their name(s)" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="YawHtOCam4Y2LVF4TnOF-22" value="hootis has 1.5 other partners but i still dont know their names" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BnkiQCS6gzXOavuw1dR2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BnkiQCS6gzXOavuw1dR2-0" target="YawHtOCam4Y2LVF4TnOF-8" edge="1">
@@ -156,12 +156,6 @@
         </mxCell>
         <mxCell id="BnkiQCS6gzXOavuw1dR2-4" value="lobo (her mom thinks shes gay for me)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="675" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BnkiQCS6gzXOavuw1dR2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BnkiQCS6gzXOavuw1dR2-5" target="YawHtOCam4Y2LVF4TnOF-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BnkiQCS6gzXOavuw1dR2-5" value="Miracle?! i dont know that one either i feel responsible for turning her trans and also i carpool with her (thats not really related but its cool i guess) also she is one of my two friends at tech and i really need her as a buffer between me and the homophobic straight gay man who likes me" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
